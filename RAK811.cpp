@@ -1,6 +1,6 @@
 /*
  * A library for controlling RAK811 LoRa radio.
- *
+ *Modified Version of the original written by:
  * @Author Chace.cao
  * @Author john.zou
  * @Date 11/05/2017
